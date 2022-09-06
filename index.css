@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(191, 153, 153);
+}
+h1 {
+  color:rgb(242, 241, 223);
+  text-align: center;
+  font-size: 55px;
+}
+h3{
+  font-size: 19px;
+  color: black;
+}
+li{
+  margin-bottom: 5px;
+}
+a{
+  color: rgb(242, 241, 223);
+  font-size: 17px;
+}
+a:hover{
+  color: rgba(242, 241, 223, 0.5);
+}
