@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(77, 79, 79);
+}
+
+/* a{
+  text-align: center;
+  margin-top: 35px;
+  font-family: Optima, sans-serif;
+  font-weight: bold;
+  font-variant: small-caps;
+  font-size: 20px;
+  color: black;
+  margin-top: -30px;
+  text-align: center;
+  display:block;
+  font-variant: small-caps;
+  font-size: 15px;
+  color: rgb(85,99, 93);
+} */
+a:link{
+  margin-top: 30px;
+  text-align: center;
+  display:block;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 15px;
+  color: black;
+
+}
+a:visited{
+  color: rgba(1, 1, 1, 0.5);
+}
+a:hover{
+  color: rgba(1, 1, 1, 0.5);
+}
+
+img{
+  margin-top: 40px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+map{
+  display: inline;
+}
