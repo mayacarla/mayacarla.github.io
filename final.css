@@ -1,0 +1,68 @@
+body{
+  background-color: rgb(191, 126, 4);
+}
+h1{
+  color: rgb(254, 227, 162);
+  font-weight: bold;
+  font-family: arial;
+  font-size: 50px;
+  margin-top: 35px;
+  margin-left: 17%;
+}
+a{
+  margin-left: 46%;
+  font-weight: bold;
+  font-family: arial;
+}
+p{
+  font-weight: bold;
+  color: rgb(254, 237, 186);
+  font-family: arial;
+  font-size: 17px;
+  margin-left: 10%;
+  margin-top: 60px;
+}
+#inspo{
+  font-weight: bold;
+  color: rgb(43, 40, 32);
+  font-family: arial;
+  font-size: 17px;
+  margin-left: 10%;
+
+}
+#wireframe{
+  font-weight: bold;
+  color: rgb(71, 67, 52);
+  font-family: arial;
+  font-size: 17px;
+  margin-left: 10%;
+
+}
+#code{
+  font-weight: bold;
+  color: rgb(209, 195, 153);
+  font-family: arial;
+  font-size: 17px;
+  margin-left: 10%;
+
+}
+img{
+  width: 15%;
+  margin-left: 13%;
+}
+#sketch{
+  margin-left: 13%;
+  width: 30%;
+}
+
+figcaption{
+     margin-top: 15px;
+     font: italic smaller arial;
+     margin-left: 13%;
+     display: inline-block;
+      color: rgb(43, 40, 32);
+
+}
+#tree{
+   margin-left: 19%;
+}
