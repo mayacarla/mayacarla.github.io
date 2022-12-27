@@ -1,0 +1,38 @@
+body{
+  background: rgb(26, 33, 51);
+}
+canvas{
+  margin-left: 59%;
+  margin-top: -35%;
+  position: absolute;
+}
+a{
+  color: rgb(56, 71, 89);
+  font-size: 20px;
+  margin-left: 23%;
+  text-decoration: none;
+}
+a:hover{
+  color: rgba(56, 71, 89, 0.5);
+}
+img{
+  width: 35%;
+  position: absolute;
+    margin-left: 55%;
+
+}
+h1{
+  font-style: "arial";
+  color: rgb(56, 71, 89);
+  margin-left: 20%;
+  margin-top: 30px;
+}
+
+p{
+  color: rgb(191, 186, 184);
+  font-size: 19px;
+  margin-left: 5%;
+  margin-right: 55%;
+  margin-top: 85px;
+
+}
