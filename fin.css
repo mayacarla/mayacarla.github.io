@@ -1,0 +1,32 @@
+body{
+  background-color: rgb(191, 126, 4);
+}
+canvas{
+  display: inline-block;
+ position: relative;
+
+  margin-top: 5%;
+  margin-left: 13%;
+  z-index: -1;
+  margin-bottom: 5%;
+}
+#name{
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  margin-left: -.1px;
+  margin-top: 20%;
+  position: absolute;
+  color: rgb(43, 40, 32);
+  font-weight: bold;
+  font-family: arial;
+  font-size: 15px;
+}
+#title{
+    right: 0;
+    margin-top: -.1%;
+    position: absolute;
+    color: rgb(254, 227, 162);
+    font-weight: bold;
+    font-family: arial;
+    font-size:  20px;
+}
