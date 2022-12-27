@@ -11,6 +11,7 @@ canvas{
   margin-bottom: 5%;
 }
 #name{
+  cursor: grab;
   writing-mode: vertical-rl;
   text-orientation: mixed;
   margin-left: -.1px;
@@ -22,6 +23,7 @@ canvas{
   font-size: 15px;
 }
 #title{
+    cursor: grab;
     right: 0;
     margin-top: -.1%;
     position: absolute;
