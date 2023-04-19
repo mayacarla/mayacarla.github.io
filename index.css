@@ -1,22 +1,24 @@
 body{
-  background-color: rgb(191, 153, 153);
-}
-h1 {
-  color:rgb(242, 241, 223);
-  text-align: center;
-  font-size: 55px;
-}
-h3{
-  font-size: 19px;
-  color: black;
-}
-li{
-  margin-bottom: 5px;
-}
-a{
-  color: rgb(242, 241, 223);
-  font-size: 17px;
-}
-a:hover{
-  color: rgba(242, 241, 223, 0.5);
-}
+    background-color: rgb(24, 62, 39);
+  }
+  h1 {
+    color:rgb(115, 111, 58);
+    text-align: center;
+    font-size: 55px;
+  }
+  h3{
+    font-size: 19px;
+    color: rgb(115, 111, 58);
+  }
+  li{
+    margin-bottom: 5px;
+    color: rgb(198, 207, 181);
+  }
+  a{
+    color: rgb(198, 207, 181);
+    font-size: 17px;
+    text-decoration: none;
+  }
+  a:hover{
+    color: rgba(198, 207, 181, 0.5);
+  }
